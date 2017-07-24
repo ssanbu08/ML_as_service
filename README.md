@@ -17,6 +17,6 @@ Expose a Machine Learning Application(Classification) as a REST API service usin
 
 # Sample JSON Request:
 {"v1":"a", "v2":"17,92", "v3":"5,4e-05","v4":"u","v5":"g","v6":"c","v7":"v","v8":"1,75", "v9":"f"
-, "v10":"t","v11":1,"v12":"t", "v13":"g", "v14":"80.0","v15":5,"v17":"800000.0"	,"v18":"t","v19":0}
+, "v10":"t","v11":1,"v12":"t", "v13":"g", "v14":"80.0","v15":5,"v17":"800000.0"	,"v18":"t","v19":"0"}
 
 
